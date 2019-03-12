@@ -13,7 +13,11 @@ mainpitch:
     with passionate teams and helping train, teach, and learn from other devs.
 description: Under Construction!
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/twitter_social_icon_square_color.png
+      text: 'https://twitter.com/zairon87'
+    - image: /img/glyph-logo_may2016.png
+      text: 'https://instagram.com/zairon87'
   heading: Under Construction!
   description: Under Construction!
 main:
