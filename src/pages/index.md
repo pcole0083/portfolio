@@ -1,57 +1,50 @@
 ---
 templateKey: 'index-page'
-title: 'Great coffee with a conscience'
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: 'Keep Developing Yourself'
+image: /img/bookwall.jpg
+heading: Welcome to my WebDev Portfolio
+subheading: Always stay inspired, keep coding, live a balanced life
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Coding is the never ending rubik cube, and it gets more fun the more you learn
+  and grow. These are some of my social accounts, feel free to follow me if you like what you see :)
 mainpitch:
-  title: Why Kaldi
+  title: About Me
   description: >
-      Kaldi is the coffee store for everyone who believes that
-      great coffee shouldn't just taste good, it should do good
-      too. We source all of our beans directly from small scale
-      sustainable farmers and make sure part of the profits are
-      reinvested in their communities.
+    I am currently the Principal Frontend Developer @ Pixafy LLC. I solve client issues using
+    React, Redux, Node, GraphQL, and SASS. I really enjoy what I do and love to learn new things
+    every day. But what I enjoy most is working with passionate teams and helping teach, inspire,
+    and learn from other devs.
+      
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/github-icon.png
+      className: is-4
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        <center>Github: <a href='https://github.com/pcole0083'>pcole0083</a></center><br>
+    - image: /img/Twitter_Social_Icon_Square_Color.png
+      className: is-4
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        <center>Twitter: <a href='https://twitter.com/zairon87'>zairon87</a></center><br>
+    - image: /img/glyph-logo_May2016.png
+      className: is-4
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        <center>Instagram: <a href='https://instagram.com/zairon87'>zairon87</a></center><br>
+    - image: /img/linkedin.png
+      className: is-4
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        <center>Linken IN: <a href='https://www.linkedin.com/in/patrick-coleman-8515ba32/'>patrick-coleman</a></center><br>
+    - image: /img/codesandbox.png
+      className: is-4
+      text: >
+        <center>CodeSandbox: <a href="https://codesandbox.io/u/pcole0083">pcole0083</a></center><br>
+    - image: /img/codepen.png
+      className: is-4
+      text: >
+        <center>CodePen: <a href="https://codepen.io/pcole0083/">pcole0083</a></center><br>
+        
+  heading: Experienced With
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    ReactJS, VueJS, GatsbyJS, Meteor, HandleBars, EJS, Webkit, Gulp, Grunt, RequireJS, Angular, jQuery, Bootstrap, AWS Amplify, GraphQL, Magento, Wordpress, Shopify API and Liquid templating, Youtube API, Facebook API, Google Analytics API, Google Maps API, Code Audits, Code Reviews, Architecting, interviewing and hiring new developers, training and mentoring junior devs.
 main:
   heading: Great coffee with no compromises
   description: >
