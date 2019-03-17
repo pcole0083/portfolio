@@ -22,26 +22,32 @@ intro:
       text: >
         <center>Github: <a
         href='https://github.com/pcole0083'>pcole0083</a></center><br>
+      className: col-4
     - image: /img/Twitter_Social_Icon_Square_Color.png
       text: >
         <center>Twitter: <a
         href='https://twitter.com/zairon87'>zairon87</a></center><br>
+      className: col-4
     - image: /img/glyph-logo_May2016.png
       text: >
         <center>Instagram: <a
         href='https://instagram.com/zairon87'>zairon87</a></center><br>
+      className: col-4
     - image: /img/linkedin.png
       text: >
         <center>Linken IN: <a
         href='https://www.linkedin.com/in/patrick-coleman-8515ba32/'>patrick-coleman</a></center><br>
+      className: col-4
     - image: /img/codesandbox.png
       text: >
         <center>CodeSandbox: <a
         href="https://codesandbox.io/u/pcole0083">pcole0083</a></center><br>
+      className: col-4
     - image: /img/codepen.png
       text: >
         <center>CodePen: <a
         href="https://codepen.io/pcole0083/">pcole0083</a></center><br>
+      className: col-4
   heading: Experienced With
   description: >
     ReactJS, VueJS, GatsbyJS, Meteor, HandleBars, EJS, Webkit, Gulp, Grunt,
