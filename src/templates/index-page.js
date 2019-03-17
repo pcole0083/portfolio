@@ -156,13 +156,7 @@ query IndexPageTemplate {
   markdownRemark(frontmatter: {templateKey: {eq: "index-page"}}) {
       frontmatter {
         title
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        image
         heading
         subheading
         mainpitch {
