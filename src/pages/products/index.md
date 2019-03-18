@@ -21,11 +21,9 @@ main:
   image3:
     alt: Under Construction!
     image: /img/products-grid1.jpg
-testimonials: []
 full_image: /img/chemex.jpg
 pricing:
   heading: Under Construction!
   description: Under Construction!
-  plans: []
 ---
 
