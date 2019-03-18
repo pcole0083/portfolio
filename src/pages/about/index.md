@@ -1,7 +1,45 @@
 ---
 templateKey: about-page
-title: More About Me
+title: My Credentials
 ---
-### Under Construction!
+## Experience With
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lobortis lacus vel eros maximus, in consectetur tortor aliquet. Nulla congue risus ac lorem mattis, a ultrices ipsum commodo. Morbi luctus enim eget enim interdum, ac tempor lacus molestie. In nisl mauris, fermentum quis purus quis, aliquam tempus arcu. Ut ultricies ultricies nunc. Nam risus ante, sodales non felis id, porttitor eleifend elit. Morbi in velit egestas, lobortis mi in, tempus velit. Integer ipsum dui, dapibus in iaculis at, ullamcorper ac enim. Praesent tincidunt ornare mi, vel sagittis felis. Fusce aliquet gravida leo a varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam non sodales nisl, eget auctor magna. Nulla varius in tortor ac sagittis.
+ReactJS, VueJS, GatsbyJS, Meteor, HandleBars, EJS, Webkit, Gulp, Grunt, RequireJS, Angular, jQuery, Bootstrap, AWS Amplify, GraphQL, Magento, Wordpress, Shopify API and Liquid templating, Youtube API, Facebook API, Google Analytics API, Google Maps API, Code Audits, Code Reviews, Architecting, interviewing and hiring new developers, training and mentoring junior devs.
+
+## Languages
+
+JavaScript, NodeJS, PHP, HTML5, CSS3, SASS/SCSS, and LESS.\
+I also have worked with MongoDB, Python, MySQL, XML, Bash, and Ruby.
+
+## EDUCATION
+
+**Ramapo College of New Jersey**\
+_Mahwah, NJ_\
+_Bachelor of Science - Information Systems_\
+_Minor - International Business_
+
+**Bergen Community College**\
+_Paramus, NJ_\
+_Associate of Science - International Business_
+
+## Work History
+
+**Pixafy LLC, New York, NY — Principal Frontend Developer**\
+**November 2014 - PRESENT**
+
+_Lead Senior Frontend Developer for the web development team. In addition to coding daily, I architect solutions, consult on business opportunities, collect business requirements, run paired programming sessions, perform code reviews, write documentation, and help foster individual and team growth._
+
+**Pixafy Inc, New York, NY — Senior Frontend Developer**\
+**November 2012 - November 2014**
+
+_Lead Frontend Developer of iDialogs (www.idialogs.com) project working with large datasets for patients with diabetes and their doctors. Codeigniter backend using Highcharts to render the data into multiple different charts and scales users can choose from._
+
+**Pixafy Inc, New York, NY — Frontend Developer**\
+**August 2011 - November 2012**
+
+_Worked on a variety of Magento, Drupal, and Codeigniter builds such as Warby Parker mobile site, Tasting Table, Susie Cakes, and Glassful._
+
+**PCD Web Design, New Jersey — Freelance Developer**\
+**January 2010 - August 2011**
+
+_Freelance Open Source developer working on a variety of small business, non-profit, & short term contract builds._
