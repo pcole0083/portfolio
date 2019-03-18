@@ -6,7 +6,7 @@ import { HTMLContent } from '../components/Content'
 const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
     {gridItems.map(item => (
-      <div key={item.text} className={`column ${item.className || 'is-6'}`}>
+      <div key={item.text} className={`column ${item.className || 'is-4'}`}>
         <section className="section px-0">
           <div className="has-text-centered">
             <div
