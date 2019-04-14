@@ -80,7 +80,7 @@ export const IndexPageTemplate = ({
                   <h3 className="has-text-weight-semibold is-size-2">
                     {heading}
                   </h3>
-                  <p>{description}</p>
+                  <p dangerouslySetInnerHTML={{ __html: description }}></p>
                 </div>
               </div>
               <Features gridItems={intro.blurbs} />

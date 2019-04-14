@@ -10,6 +10,12 @@ $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
 
+html
+  background-color: $black !important
+
+body > div
+  background-color: $white
+
 .navbar .navbar-menu
   box-shadow:none !important
 
@@ -81,8 +87,12 @@ $black: #2b2523
 .navbar-brand .navbar-item.logo
   padding: 0 1rem
 footer.footer
-  padding: 3rem 0rem 0rem
+  padding: 3rem 0rem
   background-color: transparent
+
+  .menu-list a
+    margin: 0 auto
+    max-width: 200px
 
 //Menu overrides
 $menu-item-color: $white-ter
@@ -119,6 +129,12 @@ $menu-label-color: $white-ter
 .text-center
   text-align: center !important
 
+.o-auto
+  overflow: auto !important
+
+.o-hidden
+  overflow: hidden !important
+
 @import "~bulma"
 
 .px-0
@@ -126,7 +142,26 @@ $menu-label-color: $white-ter
   padding-right: 0 !important
 
 .footer
+  margin-top: 3rem
+  position: relative
+  transform: skew(0deg, -10deg)
+
+  &::after
+    background-color: #2b2523
+    content: ''
+    display: block
+    height: 180px
+    position: absolute
+    top: 90%
+    transform: skew(0deg, 10deg)
+    width: 100%
+
   .content
+    transform: skew(0deg, 10deg)
+
+    &:last-child
+      padding-bottom: 3rem
+
     .menu-list
       margin-left: 0
 
