@@ -16,9 +16,9 @@ description: >-
   Coding is the never ending rubik cube, and it gets more fun the more you learn
   and grow. These are some of my social accounts, feel free to follow me if you
   like what you see. The banner image was taken at <a
-  href="https://www.dullboybar.com">Dullboy</a> Jersey City and is one of my
-  favorite bars/restaurants. This site was build using Gatsby + Netlify.
-  JAMStack is the best!
+  href="https://www.dullboybar.com" target="_blank" rel="noopener">Dullboy</a>
+  Jersey City and is one of my favorite bars/restaurants. This site was build
+  using Gatsby + Netlify. JAMStack is the best!
 intro:
   blurbs:
     - className: is-4
