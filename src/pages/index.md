@@ -11,7 +11,9 @@ mainpitch:
     issues using React, Redux, Node, GraphQL, and SASS. I really enjoy what I do
     and love to learn new things every day. But what I enjoy most is working
     with passionate teams and helping teach, inspire, and learn from other devs.
-      
+    Currently I really love working with <a
+    href="https://www.gatsbyjs.org/">GatsbyJS</a> in combination with Netlify or
+    Wordpress for content.
 description: >-
   Coding is the never ending rubik cube, and it gets more fun the more you learn
   and grow. These are some of my social accounts, feel free to follow me if you
