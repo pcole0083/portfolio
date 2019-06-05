@@ -25,9 +25,12 @@ intro:
   blurbs:
     - className: is-4
       image: /img/github-icon.png
-      text: >
-        <center>Github: <a
-        href='https://github.com/pcole0083'>pcole0083</a></center><br>
+      text: >-
+        <center>Github: <a href='https://github.com/pcole0083' target='_blank'
+        rel='noreferrer'>Individual</a></center><br>
+
+        <center>Github: <a href='https://github.com/pcoleman-pixafy'
+        target='_blank' rel='noreferrer'>Company</a></center><br>
     - className: is-4
       image: /img/twitter_social_icon_square_color.png
       text: >
