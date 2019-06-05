@@ -27,7 +27,7 @@ intro:
       image: /img/github-icon.png
       text: >-
         <center>Github: <a href='https://github.com/pcole0083' target='_blank'
-        rel='noreferrer'>Individual</a></center><br>
+        rel='noreferrer'>Individual</a></center>
 
         <center>Github: <a href='https://github.com/pcoleman-pixafy'
         target='_blank' rel='noreferrer'>Company</a></center><br>
