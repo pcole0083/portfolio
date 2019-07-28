@@ -11,21 +11,26 @@ mainpitch:
     issues using React, Redux, Node, GraphQL, and SASS. I really enjoy what I do
     and love to learn new things every day. But what I enjoy most is working
     with passionate teams and helping teach, inspire, and learn from other devs.
-      
+    Currently I really love working with <a
+    href="https://www.gatsbyjs.org/">GatsbyJS</a> in combination with Netlify or
+    Wordpress for content.
 description: >-
   Coding is the never ending rubik cube, and it gets more fun the more you learn
   and grow. These are some of my social accounts, feel free to follow me if you
   like what you see. The banner image was taken at <a
-  href="https://www.dullboybar.com">Dullboy</a> Jersey City and is one of my
-  favorite bars/restaurants. This site was build using Gatsby + Netlify.
-  JAMStack is the best!
+  href="https://www.dullboybar.com" target="_blank" rel="noopener">Dullboy</a>
+  Jersey City and is one of my favorite bars/restaurants. This site was build
+  using Gatsby + Netlify. JAMStack is the best!
 intro:
   blurbs:
     - className: is-4
       image: /img/github-icon.png
-      text: >
-        <center>Github: <a
-        href='https://github.com/pcole0083'>pcole0083</a></center><br>
+      text: >-
+        <center>Github: <a href='https://github.com/pcole0083' target='_blank'
+        rel='noreferrer'>Individual</a></center>
+
+        <center>Github: <a href='https://github.com/pcoleman-pixafy'
+        target='_blank' rel='noreferrer'>Company</a></center><br>
     - className: is-4
       image: /img/twitter_social_icon_square_color.png
       text: >
