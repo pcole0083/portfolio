@@ -1,15 +1,19 @@
 ---
 templateKey: about-page
-title: My Credentials
+title: My Story
 ---
+![Coca-Cola Mural, Greenville, NC.](/img/coca-cola-mural2.jpg "Coca-Cola Mural, Greenville, NC.")
+
+I've been a professional web developer for over 10 years. I started out as a hobbyist when I was 12 years old by building a Dragon Ball Z fan site using PHP Forum. I took programming classes in high school, but did not enjoy having to wait for long compile times only to find out I had syntax error. When I was in college I decided to switch my major to do what I enjoyed and started doing freelance web development between classes and working at Starbucks.  After I graduated I landed a gig as a freelance working for a startup called Pixafy. After 3 months they liked my work so much they brought me on full time and the rest is history. 
+
 ## Experience With
 
-ReactJS, VueJS, GatsbyJS, Meteor, HandleBars, EJS, Webkit, Gulp, Grunt, RequireJS, Angular, jQuery, Bootstrap, AWS Amplify, GraphQL, Magento, Wordpress, Shopify API and Liquid templating, Youtube API, Facebook API, Google Analytics API, Google Maps API, Code Audits, Code Reviews, Architecting, interviewing and hiring new developers, training and mentoring junior devs.
+ReactJS, Redux, GatsbyJS, Meteor, VueJS, HandleBars, EJS, Webkit, Gulp, Grunt, RequireJS, Angular, jQuery, Bootstrap, AWS Amplify, GraphQL, Magento, Wordpress, Shopify API and Liquid templating, Youtube API, Facebook API, Google Analytics API, Google Maps API, Code Audits, Code Reviews, Architecting, interviewing and hiring new developers, training and mentoring junior devs.
 
 ## Languages
 
 JavaScript, NodeJS, PHP, HTML5, CSS3, SASS/SCSS, and LESS.\
-I also have worked with MongoDB, Python, MySQL, XML, Bash, and Ruby.
+I also have worked with MongoDB, Python, MySQL, XML, and I write simple Bash scripts to help automate redundant tasks I have to do regularly.
 
 ## EDUCATION
 
