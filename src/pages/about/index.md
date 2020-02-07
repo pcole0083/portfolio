@@ -8,12 +8,16 @@ I've been a professional web developer for over 10 years. I started out as a hob
 
 ## Experience With
 
-ReactJS, Redux, GatsbyJS, Meteor, VueJS, HandleBars, EJS, Webkit, Gulp, Grunt, RequireJS, Angular, jQuery, Bootstrap, AWS Amplify, GraphQL, Magento, Wordpress, Shopify API and Liquid templating, Youtube API, Facebook API, Google Analytics API, Google Maps API, Code Audits, Code Reviews, Architecting, interviewing and hiring new developers, training and mentoring junior devs.
+ReactJS, Redux, GatsbyJS, Styled Components, Meteor, VueJS, HandleBars, EJS, Webkit, Gulp, Grunt, AWS Amplify, AWS Lambda, AWS API Gateway, GraphQL, Markdown, Youtube API, Facebook API, Google Analytics API, Google Maps API, RequireJS, Angular, jQuery, Bootstrap, Code Audits, Code Reviews, Architecting, interviewing and hiring new developers, training and mentoring junior devs.
 
 ## Languages
 
 JavaScript, NodeJS, PHP, HTML5, CSS3, SASS/SCSS, and LESS.\
 I also have worked with MongoDB, Python, MySQL, XML, and I write simple Bash scripts to help automate redundant tasks I have to do regularly.
+
+## Platforms
+
+I have worked with many different content management systems over the years and am always trying new ones. The ones I am most familiar with are Wordpress, Shopify/Shopify Plus theme customizations and Shopify APIs, Magento 1 & 2, and Drupal. I've also worked with modern headless CMSs such a Contentful and Netlify CMS (what this site uses).
 
 ## EDUCATION
 
@@ -47,3 +51,8 @@ _Worked on a variety of Magento, Drupal, and Codeigniter builds such as Warby Pa
 **January 2010 - August 2011**
 
 _Freelance Open Source developer working on a variety of small business, non-profit, & short term contract builds._
+
+__
+
+_**Looking to connect or learn more?**_\
+_**Send me a email via the**_ [_**Contact form**_](https://pcoleman.dev/contact).
