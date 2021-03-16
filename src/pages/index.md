@@ -3,17 +3,17 @@ templateKey: index-page
 title: Keep Developing Yourself
 image: /img/bookwall.jpg
 heading: Welcome to my WebDev Portfolio
-subheading: 'Always stay inspired, keep coding, live a balanced life'
+subheading: 'Stay inspired, keep coding, live a balanced life'
 mainpitch:
   title: About Me
   description: >
-    I am currently the Principal Frontend Developer @ Pixafy LLC. I solve client
+    Currently the Principal Frontend Developer @ Pixafy LLC. I solve client
     issues using React, Redux, Node, GraphQL, and SASS. I really enjoy what I do
     and love to learn new things every day. But what I enjoy most is working
     with passionate teams and helping teach, inspire, and learn from other devs.
     Currently I really love working with <a
     href="https://www.gatsbyjs.org/">GatsbyJS</a> in combination with Netlify or
-    Wordpress for content.
+    Wordpress for content and Shopify or Magento 2 for e-commerce.
 description: >-
   Coding is the never ending rubik cube, and it gets more fun the more you learn
   and grow. These are some of my social accounts, feel free to follow me if you
