@@ -7,13 +7,10 @@ subheading: 'Always stay inspired, keep coding, live a balanced life'
 mainpitch:
   title: About Me
   description: >
-    I am currently the Principal Frontend Developer @ Pixafy LLC. I solve client
-    issues using React, Redux, Node, GraphQL, and SASS. I really enjoy what I do
+    I am currently a Custom Software Engineering Assoc Manager @ Accenture. I am a Shopify ecommerce expert with 10 years building and updating sites for clients and over 15 years in the ecom space in general. I really enjoy what I do
     and love to learn new things every day. But what I enjoy most is working
     with passionate teams and helping teach, inspire, and learn from other devs.
-    Currently I really love working with <a
-    href="https://www.gatsbyjs.org/">GatsbyJS</a> in combination with Netlify or
-    Wordpress for content.
+    I am the most proficient using React, Redux, NodeJS, GraphQL, CSS, SASS/SCSS, Liquid, Shopify's headless setup with Hydrogen and Oxygen.
 description: >-
   Coding is the never ending rubik cube, and it gets more fun the more you learn
   and grow. These are some of my social accounts, feel free to follow me if you
@@ -34,8 +31,8 @@ intro:
     - className: is-4
       image: /img/twitter_social_icon_square_color.png
       text: >
-        <center>Twitter: <a
-        href='https://twitter.com/zairon87'>zairon87</a></center><br>
+        <center>BlueSky: <a
+        href='https://bsky.app/profile/zairon87.bsky.social'>@zairon87.bsky.social</a></center><br>
     - className: is-4
       image: /img/glyph-logo_may2016.png
       text: >
