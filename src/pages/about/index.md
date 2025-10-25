@@ -4,16 +4,21 @@ title: My Story
 ---
 ![Coca-Cola Mural, Greenville, NC.](/img/coca-cola-mural2.jpg "Coca-Cola Mural, Greenville, NC.")
 
-I've been a professional web developer for over 10 years. I started out as a hobbyist when I was 12 years old by building a Dragon Ball Z fan site using PHP Forum. I took programming classes in high school, but did not enjoy having to wait for long compile times only to find out I had syntax error. When I was in college I decided to switch my major to do what I enjoyed and started doing freelance web development between classes and working at Starbucks.  After I graduated I landed a gig as a freelance working for a startup called Pixafy. After 3 months they liked my work so much they brought me on full time and the rest is history. 
+I've been a professional web developer for over 10 years. I started out as a hobbyist when I was 12 years old by building a Dragon Ball Z fan site using PHP Forum. I took programming classes in high school, but did not enjoy having to wait for long compile times only to find out I had syntax error. When I was in college I decided to switch my major to do what I enjoyed and started doing freelance web development between classes and working at Starbucks.  After I graduated I landed a gig as a freelance working for a startup called Pixafy. After 3 months they liked my work so much they brought me on full time.\
+I am now married and a father and while a lot has changed why I love doing what I do has not. What I strive for is balance between working from home, being a parent, and everything else life throws our way.
 
 ## Experience With
 
-ReactJS, Redux, GatsbyJS, Meteor, VueJS, HandleBars, EJS, Webkit, Gulp, Grunt, RequireJS, Angular, jQuery, Bootstrap, AWS Amplify, GraphQL, Magento, Wordpress, Shopify API and Liquid templating, Youtube API, Facebook API, Google Analytics API, Google Maps API, Code Audits, Code Reviews, Architecting, interviewing and hiring new developers, training and mentoring junior devs.
+ReactJS, Redux, GatsbyJS, Styled Components, Meteor, VueJS, HandleBars, EJS, Webkit, Gulp, Grunt, AWS Amplify, AWS Lambda, AWS API Gateway, GraphQL, Markdown, Youtube API, Facebook API, Google Analytics API, Google Maps API, RequireJS, Angular, jQuery, Bootstrap, Code Audits, Code Reviews, Architecting, interviewing and hiring new developers, training and mentoring junior devs.
 
 ## Languages
 
 JavaScript, NodeJS, PHP, HTML5, CSS3, SASS/SCSS, and LESS.\
 I also have worked with MongoDB, Python, MySQL, XML, and I write simple Bash scripts to help automate redundant tasks I have to do regularly.
+
+## Platforms
+
+I have worked with many different content management systems over the years and am always trying new ones. The ones I am most familiar with are Wordpress, Shopify/Shopify Plus theme customizations and Shopify APIs, Magento 1 & 2, and Drupal. I've also worked with modern headless CMSs such a Contentful and Netlify CMS (what this site uses).
 
 ## EDUCATION
 
@@ -47,3 +52,8 @@ _Worked on a variety of Magento, Drupal, and Codeigniter builds such as Warby Pa
 **January 2010 - August 2011**
 
 _Freelance Open Source developer working on a variety of small business, non-profit, & short term contract builds._
+
+__
+
+**_Looking to connect or learn more?_**\
+**_Send me a email via the_** [**_Contact form_**](https://pcoleman.dev/contact).

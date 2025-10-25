@@ -3,12 +3,11 @@ templateKey: index-page
 title: Keep Developing Yourself
 image: /img/bookwall.jpg
 heading: Welcome to my WebDev Portfolio
-subheading: 'Always stay inspired, keep coding, live a balanced life'
+subheading: 'Stay inspired, keep coding, live a balanced life'
 mainpitch:
   title: About Me
   description: >
-    I am currently a Custom Software Engineering Assoc Manager @ Accenture. I am a Shopify ecommerce expert with 10 years building and updating sites for clients and over 15 years in the ecom space in general. I really enjoy what I do
-    and love to learn new things every day. But what I enjoy most is working
+    I am currently a Custom Software Engineering Assoc Manager @ Accenture. I am a Shopify ecommerce expert with 10 years building and updating sites for clients and over 15 years in the ecom space in general. I really enjoy what I do and love to learn new things every day. But what I enjoy most is working
     with passionate teams and helping teach, inspire, and learn from other devs.
     I am the most proficient using React, Redux, NodeJS, GraphQL, CSS, SASS/SCSS, Liquid, Shopify's headless setup with Hydrogen and Oxygen.
 description: >-
